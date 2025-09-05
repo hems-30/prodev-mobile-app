@@ -1,5 +1,5 @@
 import PropertyListing from "@/components/PropertyListing";
-import { styles } from "@/styles/_homestyle";
+import { styles } from "@/styles/propertyCardStyle";
 import { Feather } from "@expo/vector-icons";
 import { View, Text, TextInput, Image, ScrollView, TouchableHighlight } from "react-native";
 import { FILTERS, SAMPLE_DATA } from "@/constants/data";
